@@ -11,4 +11,4 @@
 
 # Status
 - works in staging (protects /private, redirects to sign-in on unlogged nav)
-- 
+- doesn't in production, until we have a domain at least
