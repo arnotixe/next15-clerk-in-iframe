@@ -106,6 +106,13 @@ export default function Home() {
           Go to nextjs.org →
         </a>
       </footer>
+      IFRAME
+      <iframe
+        src="https://gg.staging.mastermind.com/login?email=shabana@deangraziosi.com"
+        width="1400"
+        height="800"
+        allow="microphone"
+      ></iframe>
     </div>
   );
 }
